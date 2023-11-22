@@ -1,0 +1,255 @@
+{
+    "Acquisition_instrument.TEM.Stage.tilt_alpha": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.Stage.tilt_alpha",
+            "en": "Acquisition_instrument.TEM.Stage.tilt_alpha"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 1,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.Stage.tilt_beta": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.Stage.tilt_beta",
+            "en": "Acquisition_instrument.TEM.Stage.tilt_beta"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 2,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.Stage.x": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.Stage.x",
+            "en": "Acquisition_instrument.TEM.Stage.x"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 3,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.Stage.y": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.Stage.y",
+            "en": "Acquisition_instrument.TEM.Stage.y"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 4,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.Stage.z": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.Stage.z",
+            "en": "Acquisition_instrument.TEM.Stage.z"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 5,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.acquisition_mode": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.acquisition_mode",
+            "en": "Acquisition_instrument.TEM.acquisition_mode"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 6,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.beam_current": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.beam_current",
+            "en": "Acquisition_instrument.TEM.beam_current"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 7,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.beam_energy": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.beam_energy",
+            "en": "Acquisition_instrument.TEM.beam_energy"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 8,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.camera_length": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.camera_length",
+            "en": "Acquisition_instrument.TEM.camera_length"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 9,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.dwell_time": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.dwell_time",
+            "en": "Acquisition_instrument.TEM.dwell_time"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 10,
+        "variable": 1
+    },
+    "Acquisition_instrument.TEM.magnification": {
+        "name": {
+            "ja": "Acquisition_instrument.TEM.magnification",
+            "en": "Acquisition_instrument.TEM.magnification"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 11,
+        "variable": 1
+    },
+    "General.FileIO.Number_0.hyperspy_version": {
+        "name": {
+            "ja": "General.FileIO.Number_0.hyperspy_version",
+            "en": "General.FileIO.Number_0.hyperspy_version"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 12,
+        "variable": 1
+    },
+    "General.FileIO.Number_0.io_plugin": {
+        "name": {
+            "ja": "General.FileIO.Number_0.io_plugin",
+            "en": "General.FileIO.Number_0.io_plugin"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 13,
+        "variable": 1
+    },
+    "General.FileIO.Number_0.operation": {
+        "name": {
+            "ja": "General.FileIO.Number_0.operation",
+            "en": "General.FileIO.Number_0.operation"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 14,
+        "variable": 1
+    },
+    "General.FileIO.Number_0.timestamp": {
+        "name": {
+            "ja": "General.FileIO.Number_0.timestamp",
+            "en": "General.FileIO.Number_0.timestamp"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 15,
+        "variable": 1
+    },
+    "General.date": {
+        "name": {
+            "ja": "General.date",
+            "en": "General.date"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 16,
+        "variable": 1
+    },
+    "General.original_filename": {
+        "name": {
+            "ja": "General.original_filename",
+            "en": "General.original_filename"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 17,
+        "variable": 1
+    },
+    "General.time": {
+        "name": {
+            "ja": "General.time",
+            "en": "General.time"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 18,
+        "variable": 1
+    },
+    "General.title": {
+        "name": {
+            "ja": "General.title",
+            "en": "General.title"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 19,
+        "variable": 1
+    },
+    "Signal.Noise_properties.Variance_linear_model.gain_factor": {
+        "name": {
+            "ja": "Signal.Noise_properties.Variance_linear_model.gain_factor",
+            "en": "Signal.Noise_properties.Variance_linear_model.gain_factor"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 20,
+        "variable": 1
+    },
+    "Signal.Noise_properties.Variance_linear_model.gain_offset": {
+        "name": {
+            "ja": "Signal.Noise_properties.Variance_linear_model.gain_offset",
+            "en": "Signal.Noise_properties.Variance_linear_model.gain_offset"
+        },
+        "schema": {
+            "type": "number"
+        },
+        "order": 21,
+        "variable": 1
+    },
+    "Signal.quantity": {
+        "name": {
+            "ja": "Signal.quantity",
+            "en": "Signal.quantity"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 22,
+        "variable": 1
+    },
+    "Signal.signal_type": {
+        "name": {
+            "ja": "Signal.signal_type",
+            "en": "Signal.signal_type"
+        },
+        "schema": {
+            "type": "string"
+        },
+        "order": 23,
+        "variable": 1
+    }
+}

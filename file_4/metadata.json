@@ -1,0 +1,76 @@
+{
+    "constant": {},
+    "variable": [
+        {
+            "Acquisition_instrument.TEM.Stage.tilt_alpha": {
+                "value": -0.0009759992265376495
+            },
+            "Acquisition_instrument.TEM.Stage.tilt_beta": {
+                "value": 0.0
+            },
+            "Acquisition_instrument.TEM.Stage.x": {
+                "value": -0.46998300000000004
+            },
+            "Acquisition_instrument.TEM.Stage.y": {
+                "value": 0.12285599999999999
+            },
+            "Acquisition_instrument.TEM.Stage.z": {
+                "value": -0.210385
+            },
+            "Acquisition_instrument.TEM.acquisition_mode": {
+                "value": "STEM"
+            },
+            "Acquisition_instrument.TEM.beam_current": {
+                "value": 0.0
+            },
+            "Acquisition_instrument.TEM.beam_energy": {
+                "value": 200.0
+            },
+            "Acquisition_instrument.TEM.camera_length": {
+                "value": 135.0
+            },
+            "Acquisition_instrument.TEM.dwell_time": {
+                "value": "1.4e-06"
+            },
+            "Acquisition_instrument.TEM.magnification": {
+                "value": 1300000.0
+            },
+            "General.FileIO.Number_0.hyperspy_version": {
+                "value": "2.0rc0"
+            },
+            "General.FileIO.Number_0.io_plugin": {
+                "value": "rsciio.digitalmicrograph"
+            },
+            "General.FileIO.Number_0.operation": {
+                "value": "load"
+            },
+            "General.FileIO.Number_0.timestamp": {
+                "value": "2023-11-22T15:31:41.969600+09:00"
+            },
+            "General.date": {
+                "value": "2016-08-27"
+            },
+            "General.original_filename": {
+                "value": "Fei_HAADF-DE_location.dm3"
+            },
+            "General.time": {
+                "value": "20:54:33"
+            },
+            "General.title": {
+                "value": "Fei HAADF-DE_location"
+            },
+            "Signal.Noise_properties.Variance_linear_model.gain_factor": {
+                "value": "1.0"
+            },
+            "Signal.Noise_properties.Variance_linear_model.gain_offset": {
+                "value": 0.0
+            },
+            "Signal.quantity": {
+                "value": "Intensity"
+            },
+            "Signal.signal_type": {
+                "value": ""
+            }
+        }
+    ]
+}
